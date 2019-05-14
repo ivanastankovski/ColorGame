@@ -1,3 +1,3 @@
 # ColorGame
 
-Color Game is a game where you have to guess the given color in RGB format.
+Color Game is a game for guessing the given colors in RGB format.
